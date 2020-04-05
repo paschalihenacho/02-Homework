@@ -1,0 +1,6 @@
+{
+    "git.autofetch": true,
+    "prettier.jsxSingleQuote": true,
+    "prettier.vueIndentScriptAndStyle": true,
+    "prettier.singleQuote": true
+}
