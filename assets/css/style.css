@@ -6,6 +6,7 @@
 
 body {
   background-color: #d9dcd6;
+  min-width: 500px;
 }
 
 .header {
@@ -147,6 +148,7 @@ p {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   background-color: #0072bb;
   color: #ffffff;
+  z-index: 1;
 }
 
 .online-reputation-management {
@@ -165,6 +167,7 @@ p {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   background-color: #0072bb;
   color: #ffffff;
+  z-index: 2;
 }
 
 .search-engine-optimization img {
